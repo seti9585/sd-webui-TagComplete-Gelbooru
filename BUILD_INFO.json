@@ -1,0 +1,14 @@
+{
+  "build": "1.0.0",
+  "original_tagcomplete_commit": "4170882f90b47be130a0ff9314f663c230b9153d",
+  "gelbooru_source": "https://raw.githubusercontent.com/eduardoabreu81/sd-webui-prompt-studio-neo/main/tags/gelbooru.csv",
+  "gelbooru_sha256": "14e4676ac87dfc88e6ede48b0bd563bac1a83882fd2f9a8c041583e4045929ae",
+  "gelbooru_rows": 235255,
+  "frontend_checks": 32,
+  "backend_simulated_hosts": [
+    "Neo",
+    "Forge",
+    "reForge"
+  ],
+  "real_webui_validation": false
+}
